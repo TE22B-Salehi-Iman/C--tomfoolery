@@ -1,0 +1,14 @@
+C:\Users\iman.salehi\Documents\C# tomfoolery\bin\Debug\net7.0\C# tomfoolery.exe
+C:\Users\iman.salehi\Documents\C# tomfoolery\bin\Debug\net7.0\C# tomfoolery.deps.json
+C:\Users\iman.salehi\Documents\C# tomfoolery\bin\Debug\net7.0\C# tomfoolery.runtimeconfig.json
+C:\Users\iman.salehi\Documents\C# tomfoolery\bin\Debug\net7.0\C# tomfoolery.dll
+C:\Users\iman.salehi\Documents\C# tomfoolery\bin\Debug\net7.0\C# tomfoolery.pdb
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.AssemblyInfoInputs.cache
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.AssemblyInfo.cs
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.csproj.CoreCompileInputs.cache
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.dll
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\refint\C# tomfoolery.dll
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.pdb
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\C# tomfoolery.genruntimeconfig.cache
+C:\Users\iman.salehi\Documents\C# tomfoolery\obj\Debug\net7.0\ref\C# tomfoolery.dll
